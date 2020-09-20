@@ -1,0 +1,12 @@
+@charset 'UTF-8';
+h2 {
+    text-align: center;
+}
+li {
+    font-size: 18px;
+    font-weight: bold;
+}
+p {
+    font-size: 18px;
+    color: #000;
+}
